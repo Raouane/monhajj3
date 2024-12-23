@@ -1,0 +1,7 @@
+{
+    "npm.packageManager": "npm",
+    "tailwindCSS.experimental.classRegex": [],
+    "css.validate": false,
+    "tailwindCSS.validate": true,
+    "tailwindCSS.emmetCompletions": true
+} 
